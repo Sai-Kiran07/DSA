@@ -6,6 +6,7 @@ My collection of solved LeetCode questions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -52,4 +53,12 @@ My collection of solved LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
