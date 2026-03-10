@@ -9,6 +9,7 @@ My collection of solved LeetCode questions.
 | [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
