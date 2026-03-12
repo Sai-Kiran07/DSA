@@ -1,8 +1,8 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int sp = 0;
-        for(int fp = 0;fp < nums.length; fp++){
-            if(sp < 2 || nums[fp] != nums[sp - 2]){
+        int sp = 2;
+        for(int fp = 2;fp < nums.length; fp++){
+            if(nums[fp] != nums[sp - 2]){
                     nums[sp] = nums[fp];
                     sp++;
                 }
