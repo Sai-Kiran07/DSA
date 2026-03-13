@@ -9,6 +9,7 @@ My collection of solved LeetCode questions.
 | [0014-longest-common-prefix](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -75,4 +76,8 @@ My collection of solved LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
