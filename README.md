@@ -11,6 +11,7 @@ My collection of solved LeetCode questions.
 | [0075-sort-colors](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -25,12 +26,14 @@ My collection of solved LeetCode questions.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
@@ -42,6 +45,7 @@ My collection of solved LeetCode questions.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -62,6 +66,7 @@ My collection of solved LeetCode questions.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
