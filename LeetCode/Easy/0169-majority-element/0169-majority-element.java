@@ -16,6 +16,7 @@ class Solution {
             }
         }
         return majority;
+                            //Sorting (Time: O(n) but additional space complexity for HashMap).
         // Map<Integer,Integer> map = new HashMap<Integer,Integer>();
         // for(int num:nums){
         //     map.put(num,map.getOrDefault(num,0) + 1);
