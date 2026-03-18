@@ -9,6 +9,7 @@ My collection of solved LeetCode questions.
 | [0014-longest-common-prefix](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -83,6 +84,7 @@ My collection of solved LeetCode questions.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
