@@ -47,6 +47,7 @@ My collection of solved LeetCode questions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## Divide and Conquer
@@ -88,6 +89,7 @@ My collection of solved LeetCode questions.
 | [0031-next-permutation](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
