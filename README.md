@@ -62,6 +62,7 @@ My collection of solved LeetCode questions.
 | [0242-valid-anagram](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
+| [3110-score-of-a-string](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
