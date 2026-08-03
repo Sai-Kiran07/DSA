@@ -28,6 +28,7 @@ My collection of solved LeetCode questions.
 | [0283-move-zeroes](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -153,4 +154,5 @@ My collection of solved LeetCode questions.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Sai-Kiran07/MyLeetCodeProblems/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
