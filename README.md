@@ -1,7 +1,11 @@
 # MyLeetCodeProblems
-My collection of solved LeetCode questions.
 
-<!---LeetCode Topics Start-->
+Hi, Homo Sapien or Alien, M Sai Kiran here! 👋
+Welcome to my little corner of DSA!
+I’m maintaining it as a record of my learning and progress, and hopefully, it can be useful to others as well.
+If you find this repository helpful, show some support by giving it a ⭐!
+And if you have any suggestions, feedback, or improvements, I’d genuinely love to hear them. Feel free to reach out to me at link.sai4107@gmail.com. Your feedback would be greatly appreciated!
+
 # LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
